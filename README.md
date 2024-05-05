@@ -1,4 +1,4 @@
-# Hello, My Username is Y2kun
+# Hello, I am Y2kun
 
 ## About Me
 Hello I am Y2kun and a student at a Computer Science School.  
