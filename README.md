@@ -10,6 +10,7 @@ In my free time I develope games, read books and do world building.
 My Skills include the Following  
 
 ### Languages
+```
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━┓  
 ┃German  ┃Father Language┃  
 ┣━━━━━━━━╋━━━━━━━━━━━━━━━┫  
@@ -17,7 +18,9 @@ My Skills include the Following
 ┣━━━━━━━━╋━━━━━━━━━━━━━━━┫  
 ┃Japanese┃Mother Language┃  
 ┗━━━━━━━━┻━━━━━━━━━━━━━━━┛  
+```
 ### Programming Languages
+```
 ┏━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓  
 ┃Ruby┃Since 2020┃High     Competence┃  
 ┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
@@ -43,12 +46,13 @@ My Skills include the Following
 ┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
 ┃Rust┃Since 2024┃Low      Competence┃  
 ┗━━━━┻━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┛  
+```
 
 ### Tools:
 - IDE:
-  -Helix
-  -Codium
-  -Nvim
-  -Vim
+  - Helix
+  - Codium
+  - Nvim
+  - Vim
 - Source Controle:
-  -Git
+  - Git
