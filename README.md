@@ -10,43 +10,27 @@ In my free time I develope games, read books and do world building.
 My Skills include the Following  
 
 ### Languages
-```
-┏━━━━━━━━┳━━━━━━━━━━━━━━━┓  
-┃German  ┃Father Language┃  
-┣━━━━━━━━╋━━━━━━━━━━━━━━━┫  
-┃English ┃Learned        ┃  
-┣━━━━━━━━╋━━━━━━━━━━━━━━━┫  
-┃Japanese┃Mother Language┃  
-┗━━━━━━━━┻━━━━━━━━━━━━━━━┛  
-```
+
+| Language | Competence |
+| - | - |
+| German | Father Language |
+| English | Learned |
+| Japanese | Mother Language |
+
 ### Programming Languages
-```
-┏━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓  
-┃Ruby┃Since 2020┃High     Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃C   ┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃C#  ┃Since 2023┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃sh  ┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃py  ┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃VBA ┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃SB  ┃Since 2019┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃HTML┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃CSS ┃Since 2022┃Moderate Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃JS  ┃Since 2023┃Low      Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃GD-S┃Since 2024┃Low      Competence┃  
-┣━━━━╋━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫  
-┃Rust┃Since 2024┃Low      Competence┃  
-┗━━━━┻━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┛  
-```
+
+| Language | Started | Competence |
+| - | - | - |
+| Ruby | 2020 | High |
+| C | 2022 | Moderate |
+| C# | 2023 | Moderate |
+| Shell | 2022 | Moderate |
+| Python | 2022 | Moderate |
+| HTML | 2022 | Moderate |
+| CSS | 2022 | Moderate |
+| JS | 2022 | Low |
+| GD Script | 2022 | Low |
+| Rust | 2024 | Low |
 
 ### Tools:
 - IDE:
