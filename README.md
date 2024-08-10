@@ -9,10 +9,10 @@ In my free time I develope games, read books and do world building.
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Y2kun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Y2kun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y2kun&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Y2kun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Y2kun&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Y2kun&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Y2kun&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=qfalse&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ## Languages
