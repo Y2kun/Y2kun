@@ -46,7 +46,7 @@ In my free time I develope games, read books and do world building.
 ## Contact me over
 
 <div align="center">
-  <a href="https://discordapp.com/users/1228636211384549457" target="_blank">
+  <a href="https://discordapp.com/users/762350388770111488" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://y2kun.dev" target="_blank">
