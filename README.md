@@ -1,12 +1,8 @@
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=Y2kun" alt="Layout with last medium posts"  />
-</div>
-
 # Hello, I am Y2kun
 
 ## About Me
 Hello I am Y2kun and a student at a Computer Science School.  
-As an 15 year old Student I wish to become more competent in skills I have an interest in, especialy programming.  
+As an 16 year old Student I wish to become more competent in skills I have an interest in, especialy programming.  
 I am using Linux as my main OS, specificaly NixOS. As I believe it serves my purposes well.  
 In my free time I develope games, read books and do world building.  
 
