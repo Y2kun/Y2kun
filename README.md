@@ -3,7 +3,7 @@
 ## About Me
 Hello I am Y2kun and a student at a Computer Science School.  
 As an 16 year old Student I wish to become more competent in skills I have an interest in, especialy programming.  
-I am using Linux as my main OS, specificaly NixOS. As I believe it serves my purposes well.  
+I am using GNU/Linux as my main OS, specificaly NixOS. As I believe it serves my purposes well.  
 In my free time I develope games, read books and do world building.  
 
 ## Statistics
