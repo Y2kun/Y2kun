@@ -1,10 +1,13 @@
 # Hello, I am Y2kun
 
 ## About Me
-Hello I am a Catgirly Y2kun (NYA!) and a student at a Computer Science School.  
-As an 106 cat-year old Student I wish to become more competent in skills I have an interest in, especialy meowing, barking and purrying.  
-I am using GNU/Linux as my main OS, specificaly Nyarch Linux. As I believe it serves my purposes well and fits my lifestyle.  
-In my free time I eat catfood, purr and avoid water.  
+Hello, I am Catgirly Y2kun (NYA!), a proud student at a prestigious Computer Science School for highly advanced feline beings.  
+
+As a wise and experienced 106-cat-year-old scholar, my lifelong dream is to master the most essential skills of my trade: meowing fluently, barking convincingly (for undercover dog operations), and purring at a frequency that can heal human emotions.  
+
+I exclusively use GNU/Linux, specifically *Nyarch Linux*, because it aligns with my superior feline instincts—lightweight, customizable, and always ready to break at the most inconvenient times, just like a cat knocking things off a table.  
+
+In my precious free time, I indulge in my favorite hobbies: consuming premium-grade cat food, engaging in philosophical purring sessions, and avoiding water like it contains the secrets of the universe I am not meant to know. 
 
 ## Statistics
 
