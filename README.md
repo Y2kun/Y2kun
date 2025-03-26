@@ -1,10 +1,10 @@
 # Hello, I am Y2kun
 
 ## About Me
-Hello I am Y2kun and a student at a Computer Science School.  
-As an 16 year old Student I wish to become more competent in skills I have an interest in, especialy programming.  
-I am using GNU/Linux as my main OS, specificaly NixOS. As I believe it serves my purposes well.  
-In my free time I develope games, read books and work on personal projects.  
+Hello I am a Catgirly Y2kun (NYA!) and a student at a Computer Science School.  
+As an 106 cat-year old Student I wish to become more competent in skills I have an interest in, especialy meowing, barking and purrying.  
+I am using GNU/Linux as my main OS, specificaly Nyarch Linux. As I believe it serves my purposes well and fits my lifestyle.  
+In my free time I eat catfood, purr and avoid water.  
 
 ## Statistics
 
